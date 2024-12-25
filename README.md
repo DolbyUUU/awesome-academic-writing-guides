@@ -1,6 +1,6 @@
-# Lecture Slides on Academic Writing in Economics, Business, and Social Science
+# Academic Writing in Economics, Business, and Social Science
 
-This repository contains a collection of teaching slides on **academic writing**, focusing on **empirical result presentation** and **data visualization**. These materials are designed for **undergraduate** and **postgraduate level courses**, as well as for **researchers** and **students** in the fields of **economics**, **business**, and **social science**. They are suitable for both **teaching** and **self-study**.
+This repository contains a collection of materials on **academic writing**, focusing on **empirical result presentation** and **data visualization**. These materials are designed for **undergraduate** and **postgraduate level courses**, as well as for **researchers** and **students** in the fields of **economics**, **business**, and **social science**. They are suitable for both **teaching** and **self-study**.
 
 ## Contents
 1. **Lecture: Empirical Result Presentation**  
